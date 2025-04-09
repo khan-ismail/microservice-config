@@ -1,0 +1,11 @@
+build:
+  version: "qa-v1.0.0"
+
+cards:
+  message: "Welcome to Ismail Khan cards related qa APIs "
+  contactDetails:
+    name: "Card qa Khan - Developer"
+    email: "card_qa@gmail.com"
+  onCAllSupport:
+    - (555) 555-1234
+    - (555) 523-1345

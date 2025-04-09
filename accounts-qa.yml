@@ -1,0 +1,11 @@
+build:
+  version: "v1.0.0"
+
+accounts:
+  message: "Welcome to Ismail Khan accounts related QA APIs "
+  contactDetails:
+    name: "QA Khan - Developer"
+    email: "qa@gmail.com"
+  onCallSupport:
+    - (555) 555-1234
+    - (555) 523-1345

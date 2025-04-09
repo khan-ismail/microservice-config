@@ -1,0 +1,11 @@
+build:
+  version: "dev-v1.0.0"
+
+loans:
+  message: "Welcome to Ismail Khan loans related dev APIs "
+  contactDetails:
+    name: "Loans dev Khan - Developer"
+    email: "loans_dev@gmail.com"
+  onCallSupport:
+    - (555) 555-1234
+    - (555) 523-1345

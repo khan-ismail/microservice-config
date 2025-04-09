@@ -1,0 +1,11 @@
+build:
+  version: "dev-v1.0.0"
+
+cards:
+  message: "Welcome to Ismail Khan cards related dev APIs "
+  contactDetails:
+    name: "Card dev Khan - Developer"
+    email: "card_dev@gmail.com"
+  onCAllSupport:
+    - (555) 555-1234
+    - (555) 523-1345

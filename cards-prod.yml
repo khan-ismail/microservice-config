@@ -1,0 +1,11 @@
+build:
+  version: "prod-v1.0.0"
+
+cards:
+  message: "Welcome to Ismail Khan cards related prod APIs "
+  contactDetails:
+    name: "Card prod Khan - Developer"
+    email: "card_prod@gmail.com"
+  onCAllSupport:
+    - (555) 555-1234
+    - (555) 523-1345

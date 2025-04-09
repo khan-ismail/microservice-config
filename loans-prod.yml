@@ -1,0 +1,11 @@
+build:
+  version: "prod-v1.0.0"
+
+loans:
+  message: "Welcome to Ismail Khan loans related prod APIs "
+  contactDetails:
+    name: "Loans prod Khan - Developer"
+    email: "loans_prod@gmail.com"
+  onCallSupport:
+    - (555) 555-1234
+    - (555) 523-1345

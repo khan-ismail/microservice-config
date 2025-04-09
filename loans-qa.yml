@@ -1,0 +1,11 @@
+build:
+  version: "qa-v1.0.0"
+
+loans:
+  message: "Welcome to Ismail Khan loans related qa APIs "
+  contactDetails:
+    name: "Loans qa Khan - Developer"
+    email: "loans_qa@gmail.com"
+  onCallSupport:
+    - (555) 555-1234
+    - (555) 523-1345
