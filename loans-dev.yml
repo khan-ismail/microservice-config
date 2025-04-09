@@ -2,7 +2,7 @@ build:
   version: "dev-v1.0.0"
 
 loans:
-  message: "Welcome to Ismail Khan loans related development APIs "
+  message: "Welcome to Ismail Khan loans related dev APIs "
   contactDetails:
     name: "Loans dev Khan - Developer"
     email: "{cipher}e43eadd516ce785c1a9c635374cf901ec97f57e1cb653949d6305053cdddbd5afb24975f94f3f66262279b7730baadf8"
